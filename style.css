@@ -311,7 +311,7 @@ font-size: 30px;
     #text{
         padding-top: 240px;
         border-bottom: 10px solid white;
-        width: 280px;
+        width: 250px;
         margin-bottom: 0px;
         margin-left: auto;
         margin-right: auto;
@@ -330,7 +330,7 @@ font-size: 30px;
     
     #text2{
         margin-top: 0px;
-        font-size: 45px;
+        font-size: 40px;
         color:white;
         font-weight: 900;
         margin-bottom: 10px;
@@ -351,13 +351,19 @@ font-size: 30px;
     }
 
     #our{
-        padding: 80px 35px 0px 35px;
+        padding: 20px 35px 0px 35px;
         
         margin-bottom: 40px;
         margin-left: auto;
         margin-right: auto;
         /* padding-bottom: 70px; */
     }
+    
+    #service{
+    padding-top: 35px;
+    color: grey;
+    font-size: 25px;
+}
 
     #contact{
         display: flex;
