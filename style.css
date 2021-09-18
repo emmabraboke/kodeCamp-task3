@@ -39,7 +39,7 @@ margin-left: 20%;
 
 #text2{
     margin-top: 0px;
-    font-size: 65px;
+    font-size: 55px;
     color:white;
     font-weight: 900;
     margin-bottom: 10px;
@@ -302,14 +302,14 @@ font-size: 30px;
 
     header{
         background: url("img/hero-bg.jpg");
-        height: 500px;
+        height: 400px;
         width:100%;
-        background-size: 100% 500px;
+        background-size: 100% 400px;
         
     }
 
     #text{
-        padding-top: 340px;
+        padding-top: 240px;
         border-bottom: 10px solid white;
         width: 280px;
         margin-bottom: 0px;
@@ -836,6 +836,26 @@ font-size: 30px;
         margin-left: auto;
         margin-right: auto;
         
+    }
+    #provide{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+        margin-bottom: 40px;
+        font-size: 45px;
+        font-weight: 600;
+        
+    }
+    
+    #give{
+        display: flex;
+        flex-direction: row;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 40px;
+    
     }
 
     #about{
