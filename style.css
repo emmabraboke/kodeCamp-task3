@@ -848,8 +848,7 @@ font-size: 30px;
         width: 90%;
         gap: 20px 20px;
         justify-content: center;
-        align-content: center;
-        
+        align-content: center; 
     }
     #provide{
         width: 80%;
