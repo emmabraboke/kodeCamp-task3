@@ -364,6 +364,11 @@ font-size: 30px;
     color: grey;
     font-size: 25px;
 }
+    #help{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
 
     #contact{
         display: flex;
@@ -395,7 +400,7 @@ font-size: 30px;
         font-size: 25px;
         font-weight: 600;
         margin-bottom: 0px;
-        text-align: center;
+/*         text-align: center; */
         width: 90%;
         white-space: nowrap;
     }
@@ -405,7 +410,7 @@ font-size: 30px;
         font-size: 20px;
         font-weight: 600;
         margin-bottom: 50px;
-        text-align: center;
+/*         text-align: center; */
         width: 90%;
         white-space: nowrap;
     }
@@ -612,8 +617,10 @@ font-size: 30px;
         font-size: 35px;
         font-weight: 600;
         margin-bottom: 0px;
-        text-align: center;
+/*         text-align: center; */
         width: 90%;
+        white-space: nowrap;
+        
     }
     
     #call{
@@ -621,8 +628,9 @@ font-size: 30px;
         font-size: 30px;
         font-weight: 600;
         margin-bottom: 50px;
-        text-align: center;
+/*         text-align: center; */
         width: 90%;
+         white-space: nowrap;
     }
     #works{
         display: flex;
@@ -839,8 +847,8 @@ font-size: 30px;
         grid-template-columns: 45% 45%;
         width: 90%;
         gap: 20px 20px;
-        margin-left: auto;
-        margin-right: auto;
+        justify-content: center;
+        align-content: center;
         
     }
     #provide{
